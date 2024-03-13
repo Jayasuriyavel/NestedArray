@@ -1,7 +1,7 @@
 [
     {
         "id": "suriya",
-        "nestedArray": [
+        "nestedArrays": [
             [
                 "NestedItem1",
                 "NestedItem2",
@@ -14,27 +14,31 @@
         ]
     },
     {
-        "": ""
+        "id": "john",
+        "nestedArrays": [
+            [
+                "NestedItem6",
+                "NestedItem7"
+            ],
+            [
+                "NestedItem8",
+                "NestedItem9",
+                "NestedItem10"
+            ]
+        ]
     },
     {
-        "": ""
-    },
-    {
-        "": ""
-    },
-    {
-        "": ""
-    },
-    {
-        "": ""
-    },
-    {
-        "": ""
-    },
-    {
-        "": ""
-    },
-    {
-        "": ""
+        "id": "emma",
+        "nestedArrays": [
+            [
+                "NestedItem11"
+            ],
+            [
+                "NestedItem12",
+                "NestedItem13",
+                "NestedItem14",
+                "NestedItem15"
+            ]
+        ]
     }
 ]
